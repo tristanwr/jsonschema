@@ -4,7 +4,7 @@ from contextlib import suppress
 from datetime import date, datetime
 from uuid import UUID
 import ipaddress
-import re
+import regex as re
 import typing
 import warnings
 

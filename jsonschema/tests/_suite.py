@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import TYPE_CHECKING, Any
 import json
 import os
-import re
+import regex as re
 import sys
 import unittest
 

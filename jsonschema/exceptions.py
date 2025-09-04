@@ -8,7 +8,7 @@ from pprint import pformat
 from textwrap import dedent, indent
 from typing import TYPE_CHECKING, Any, ClassVar
 import heapq
-import re
+import regex as re
 import warnings
 
 from attrs import define

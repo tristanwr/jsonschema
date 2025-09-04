@@ -1,7 +1,7 @@
 from collections.abc import Mapping, MutableMapping, Sequence
 from urllib.parse import urlsplit
 import itertools
-import re
+import regex as re
 
 
 class URIDict(MutableMapping):

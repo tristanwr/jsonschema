@@ -1,6 +1,6 @@
 from pathlib import Path
 import importlib.metadata
-import re
+import regex as re
 
 ROOT = Path(__file__).parent.parent
 PACKAGE_SRC = ROOT / "jsonschema"
