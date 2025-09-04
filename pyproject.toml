@@ -8,7 +8,7 @@ source = "vcs"
 [project]
 name = "jsonschema"
 description = "An implementation of JSON Schema validation for Python"
-requires-python = ">=3.9"
+requires-python = ">=3.8.13"
 license = "MIT"
 license-files = ["COPYING"]
 keywords = [
@@ -42,7 +42,6 @@ dependencies = [
   "jsonschema-specifications>=2023.03.6",
   "referencing>=0.28.4",
   "rpds-py>=0.7.1",
-  "regex>=2024.11.6",
 ]
 
 [project.optional-dependencies]
