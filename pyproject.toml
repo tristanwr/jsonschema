@@ -9,6 +9,7 @@ source = "vcs"
 name = "jsonschema"
 description = "An implementation of JSON Schema validation for Python"
 readme = "README.rst"
+version = "4.6.1"
 requires-python = ">=3.7"
 license = {text = "MIT"}
 keywords = ["validation", "data validation", "jsonschema", "json"]
