@@ -39,6 +39,7 @@ dependencies = [
   "importlib_metadata;python_version<'3.8'",
   "typing_extensions;python_version<'3.8'",
   "importlib_resources>=1.4.0;python_version<'3.9'",
+  "regex>=2024.11.6",
 ]
 
 [project.optional-dependencies]

@@ -4,7 +4,7 @@ from contextlib import suppress
 from uuid import UUID
 import datetime
 import ipaddress
-import re
+import regex as re
 import typing
 
 from jsonschema.exceptions import FormatError

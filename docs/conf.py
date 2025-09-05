@@ -1,6 +1,6 @@
 from importlib import metadata
 import os
-import re
+import regex as re
 import sys
 
 # If extensions (or modules to document with autodoc) are in another directory,

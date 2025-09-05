@@ -1,6 +1,6 @@
 from fractions import Fraction
 from urllib.parse import urldefrag, urljoin
-import re
+import regex as re
 
 from jsonschema._utils import (
     ensure_list,

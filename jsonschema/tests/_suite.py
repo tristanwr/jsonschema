@@ -6,7 +6,7 @@ from functools import partial
 from pathlib import Path
 import json
 import os
-import re
+import regex as re
 import subprocess
 import sys
 import unittest

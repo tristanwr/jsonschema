@@ -2,7 +2,7 @@ from collections.abc import Mapping, MutableMapping, Sequence
 from urllib.parse import urlsplit
 import itertools
 import json
-import re
+import regex as re
 import sys
 
 # The files() API was added in Python 3.9.
